@@ -171,6 +171,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Logo Makr](https://logomakr.com/) - Logo maker with nice collection of SVGs. Requires payment to export logo as SVG (PNG is free).
 * [Online Logo Maker](https://www.onlinelogomaker.com/) - Make logos online. Extra user account feature to save creations.
 * [Coolors](https://coolors.co/) - Color palettes generator.
+* [Branition Colors](https://branition.com/colors) - Hand-curated collection of color pallets best fitted for branding.
 * [Tiny PNG](https://tinypng.com/) - Smart PNG and JPEG compression.
 * [Realtime Board](https://realtimeboard.com/) `[Account]` - Collaborative blackboard with huge area, screen sharing, video & voice communication.
 * [ezGIF](https://ezgif.com/) - GIF images editor (cropping, scaling, optimizing and more).
